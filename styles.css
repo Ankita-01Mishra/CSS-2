@@ -3,10 +3,10 @@ body{
     border-top: 5px solid rgb(87, 156, 87);
     border-left: 5px solid rgb(87, 156, 87);
     border-right:5px solid greenyellow ;
-    border-bottom: 5px solid greenyellow;
+    border-bottom: 5px groove greenyellow rgb(87, 156, 87);
 }
 .container{
-    height: 400vh;
+    height: 300vh;
     margin: -1px;
     border-top:7px solid greenyellow  ;
     border-left:7px solid greenyellow ;
@@ -40,7 +40,7 @@ body{
     left: -294px;
     /* top: 45px;
     left: 317px; */
-    width: 599px;
+    width: 510px;
     height: 80px;
     font-size: 35px;
     border-radius: 60px;
@@ -53,7 +53,7 @@ body{
 
 #box3{
     position: absolute;
-    right: 32px;
+    right: 1px;
     top: 21px;
     width: 487px;
     border-radius: 60px;
@@ -83,7 +83,7 @@ body{
     width: 560px;
     border: 5px dashed red;
     position: absolute;
-    right: 367px;
+    right: 376px;
     top: 320px;
     text-align: center;
 }
